@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android   = "http://schemas.android.com/apk/res/android"
-        id        = "com.example.mobile"
+        id        = "com.ilab.virtual"
         version   = "1.0.101518">
         
     <name>Mobile</name>
@@ -11,7 +11,7 @@
         Mobile application.
     </description>
 
-    <author href="http://example.com/" email="admin@example.com">
+    <author href="http://ilabatuva.org" email="tyler@shopseam.com">
         Example
     </author>
 
