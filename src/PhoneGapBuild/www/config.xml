@@ -5,10 +5,10 @@
         id        = "com.ilab.virtual"
         version   = "1.0.101518">
         
-    <name>Mobile</name>
+    <name>Virtual i.Lab</name>
 
     <description>
-        Mobile application.
+        Virtual i.Lab Mobile App
     </description>
 
     <author href="http://ilabatuva.org" email="tyler@shopseam.com">
