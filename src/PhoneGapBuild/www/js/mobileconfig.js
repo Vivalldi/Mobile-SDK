@@ -1,6 +1,6 @@
 window.mobileNativeConfig = {
-	baseUrl: 'http://example.com/mobile/',
-	domain: 'example.com',
+	baseUrl: 'http://ilabmobile.nimbussoftware.com',
+	domain: 'ilabmobile.numbussoftware.com',
 	androidSenderId: '',
 	statusTextIsDark: false
 };
