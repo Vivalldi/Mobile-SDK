@@ -52,7 +52,7 @@
   <!--<gap:plugin name="nl.x-services.plugins.launchmyapp" version="3.2.0">
     <param name="URL_SCHEME" value="comexamplemobile" />
   </gap:plugin>-->
-  <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
+  <!--<gap:plugin name="com.ionic.keyboard" version="1.0.3" />-->
   <!-- gap:plugin name="dk.vertica.taptoscroll" version="0.1.0" /-->
   <!-- disabled to resolve issues in iOS9 -->
 
